@@ -7,5 +7,5 @@
 - Прозрачный расчет стоимости ремонта и расходных материалов.
 
 ## Ссылки
-- **Репозиторий:** https://github.com/ВАШ_ЛОГИН/landing-page
-- **Сайт:** https://ВАШ_ЛОГИН.github.io/landing-page/
+- **Репозиторий:** https://github.com/Kleymaa/landing-page
+- **Сайт:** https://Kleymaa.github.io/landing-page/
